@@ -3,6 +3,7 @@
 SICS v0.2 — PARTIAL DRAFT
 Sections 1–3 of 10
 Starisian Technologies © 2026. All Rights Reserved.
+LICENSE: Proprietary
 
 ---
 
@@ -210,3 +211,15 @@ Default rejection behavior: Unless explicitly specified otherwise, trust boundar
 ---
 
 *End of SICS v0.2 partial draft. Sections 4 through 10 pending.*
+
+---
+
+## License
+
+Copyright (C) Starisian Technologies - All Rights Reserved
+
+This source code is protected under international copyright law. All rights reserved and protected by the copyright holders. This file is confidential and only available to authorized individuals with the permission of the copyright holders. If you encounter this file and do not have permission, please contact the copyright holders and delete this file.
+
+See LICENSE for full terms.
+
+Starisian Technologies © 2026. All Rights Reserved.
