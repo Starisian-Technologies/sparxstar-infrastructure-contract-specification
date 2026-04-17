@@ -217,12 +217,10 @@ Default rejection behavior: Unless explicitly specified otherwise, trust boundar
 
 ---
 
-## License
+**© 2026 Starisian Technologies. All Rights Reserved.**
 
-Copyright (C) Starisian Technologies - All Rights Reserved
+**PATENT PENDING**
 
-This source code is protected under international copyright law. All rights reserved and protected by the copyright holders. This file is confidential and only available to authorized individuals with the permission of the copyright holders. If you encounter this file and do not have permission, please contact the copyright holders and delete this file.
+The technologies, linguistic processing methods, and data structures described in this document are proprietary to **Starisian Technologies** and are the subject of pending patent applications.
 
-See LICENSE for full terms.
-
-Starisian Technologies © 2026. All Rights Reserved.
+This document is furnished for informational purposes only. No license, express or implied, by estoppel or otherwise, to any intellectual property rights is granted by this document. Unauthorized use or reproduction of these technical concepts may result in legal action upon the issuance of related patents.
