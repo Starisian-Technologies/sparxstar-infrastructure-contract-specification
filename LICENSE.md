@@ -9,7 +9,7 @@ This repository and all contained files---including but not limited to source co
 
 ### 2\. NO OPEN SOURCE LICENSE GRANTED
 
-This Software is **NOT** open source. No license is granted by the act of displaying this code on GitHub. Access to this repository is provided for **inspection and review only**.
+This Software is **NOT** open source. Display of this code on GitHub does **not** grant any open source license or any right to use, modify, distribute, sublicense, commercialize, or create derivative works from the Software. Subject to the terms of this license, a limited, non-exclusive, revocable, non-transferable permission is granted solely to access, view, and download or copy the Software as strictly necessary for **inspection, review, and evaluation only**.
 
 **The following actions are strictly prohibited without express written permission from Max Barrett:**
 
