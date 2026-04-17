@@ -14,7 +14,7 @@ LICENSE: Proprietary
 
 ### 1.1 Purpose
 
-This document defines the minimum infrastructure behaviors required for compatibility with the Event Horizon security layer and the SPARXSTAR DVE platform, independent of implementation stack.
+This document defines the minimum infrastructure behaviors required for compatibility with the runtime server security layer and the SPARXSTAR DVE platform, independent of implementation stack.
 
 It does not prescribe technology choices. It prescribes observable behaviors, trust boundaries, and operational invariants that any compliant infrastructure implementation MUST satisfy.
 
@@ -22,7 +22,7 @@ It does not prescribe technology choices. It prescribes observable behaviors, tr
 
 This contract governs:
 
-- Any infrastructure stack on which Event Horizon is deployed
+- Any infrastructure stack on which our runtime security layer is deployed
 - Any infrastructure stack on which the SPARXSTAR DVE platform is deployed
 - Any third-party implementation or certifying authority claiming contract compatibility
 - All Starisian Technologies reference implementations
