@@ -58,6 +58,15 @@ Silent amendment is prohibited. Only Starisian Technologies, or its explicitly d
 
 ## License
 
-This repository is licensed under the **Business Source License 1.1**. See [`LICENSE`](./LICENSE) for full terms.
+
+Copyright (C) Starisian Technologies - All Rights Reserved
+
+This source code is protected under international copyright law.  All rights
+reserved and protected by the copyright holders.
+This file is confidential and only available to authorized individuals with the
+permission of the copyright holders.  If you encounter this file and do not have
+permission, please contact the copyright holders and delete this file.
+
+See [`LICENSE`](./LICENSE) for full terms.
 
 Starisian Technologies © 2026. All Rights Reserved.
