@@ -1,8 +1,11 @@
 # Starisian Infrastructure Contract Specification
 
 SICS v0.2 — PARTIAL DRAFT
+
 Sections 1–3 of 10
+
 Starisian Technologies © 2026. All Rights Reserved.
+
 LICENSE: Proprietary
 
 ---
