@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="SPARXSTAR Banners-8 (3)" src="https://github.com/user-attachments/assets/f6c7185e-a597-439f-98e6-7fe817eea620" />
 # Starisian Infrastructure Contract Specification (SICS)
 
 **SICS v0.2 — Partial Draft (Sections 1–3 of 10)**
