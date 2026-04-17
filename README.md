@@ -21,7 +21,7 @@ SICS does not prescribe technology choices. It prescribes observable behaviors, 
 | File | Description |
 |------|-------------|
 | [`starisian-infrastructure-contract-specification.md`](./starisian-infrastructure-contract-specification.md) | SICS v0.2 partial draft — Sections 1–3 |
-| [`LICENSE`](./LICENSE) | Business Source License 1.1 |
+| [`LICENSE.md`](./LICENSE.md) | Starisian Technologies Proprietary License |
 
 ---
 
